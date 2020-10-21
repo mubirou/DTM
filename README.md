@@ -33,10 +33,10 @@ GM（General MIDI）のチャンネル10番は、ドラムセットなどパー�
 
 |nanoKEY2|音階|name|概要|
 |:--:|:--|:--|:--:|
-|±0|C|ハイミッドタム|XXXXXXXXXX|
-|±0|C#|クラッシュシンバル1|XXXXXXXXXX|
-|±0|D|ハイタム|XXXXXXXXXX|
-|±0|D#|ライドシンバル|XXXXXXXXXX|
+|-1|C|バス ドラム1|大ダイコ|
+|-1|D|アコースティック スネア|小ダイコ|
+|-1|F#|クローズド ハイハット|XXXXXXXXXX|
+|-1|A#|オープンハイハット|XXXXXXXXXX|
 
 実行環境：ACID Pro 10、ACID Xpress 7、KORG nanoKEY2   
 作成者：夢寐郎  
