@@ -38,3 +38,7 @@ GM（General MIDI）のチャンネル10番は、ドラムセットなどパー�
 |36|C2|Bass Drum 1|XXXXXXXXXX|
 |37|Db2|Side Stick|XXXXXXXXXX|
 |38|D2|Acoustic Snare|XXXXXXXXXX|
+
+実行環境：ACID Pro 10、ACID Xpress 7
+作成者：夢寐郎
+作成日：2020年10月2X日
