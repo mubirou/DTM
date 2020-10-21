@@ -27,18 +27,17 @@ GM（General MIDI）のチャンネル10番は、ドラムセットなどパー�
 ### 使い方
 1. 「MIDIトラックの挿入」
 1. 「インラインMIDI編集を有効にする」
-1. MIDI出力を「DLSソフトシンセ」に設定
-1. MIDIチャンネルを「10」に設定
+1. MIDI出力を「DLSソフトシンセ」に設定（重要）
+1. MIDIチャンネルを「10」に設定（重要）
 1. ドラムキットは「Standard」に設定
-* 「Standard」以外でも可能
 
-|No.|音階|name|概要|
+|nanoKEY2|音階|name|概要|
 |:--:|:--|:--|:--:|
-|35|B1|Acoustic Bass Drum|XXXXXXXXXX|
-|36|C2|Bass Drum 1|XXXXXXXXXX|
-|37|Db2|Side Stick|XXXXXXXXXX|
-|38|D2|Acoustic Snare|XXXXXXXXXX|
+|±0|C|ハイミッドタム|XXXXXXXXXX|
+|±0|C#|クラッシュシンバル1|XXXXXXXXXX|
+|±0|D|ハイタム|XXXXXXXXXX|
+|±0|D#|ライドシンバル|XXXXXXXXXX|
 
-実行環境：ACID Pro 10、ACID Xpress 7   
+実行環境：ACID Pro 10、ACID Xpress 7、KORG nanoKEY2   
 作成者：夢寐郎  
 作成日：2020年10月2X日  
