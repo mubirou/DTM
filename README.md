@@ -30,7 +30,7 @@ XXXXXXX
 * XXXXXX
 
 |No.|音階|name|概要|
-|:--:|:--|:--|:--:|:--:|
+|:--:|:--|:--|:--:|
 |35|B1|Acoustic Bass Drum|XXXXXXXXXX|
 |36|C2|Bass Drum 1|XXXXXXXXXX|
 |37|Db2|Side Stick|XXXXXXXXXX|
