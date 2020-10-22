@@ -47,7 +47,7 @@ GM（General MIDI）の「チャンネル10番」に、ドラムセットなど�
 
 実行環境：ACID Pro 10、ACID Xpress 7、KORG nanoKEY2   
 作成者：夢寐郎  
-作成日：2020年10月2X日  
+作成日：2020年10月22日  
 
 
 <a name="ASIO4ALL"></a>
