@@ -7,7 +7,7 @@
 ### <b>INDEX</b>
 * [GM Drum Map](#GMDrumMap): ドラムセットの利用
 * [ASIO4ALL](#ASIO4ALL): レイテンシーを小さくする
-* [クオンタイズをグリッドに揃える]](#AutoQuantize): 鼻歌をレコーディングする
+* [クオンタイズをグリッドに揃える](#AutoQuantize): XXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
