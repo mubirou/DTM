@@ -31,9 +31,9 @@
 1. ACIDの[オプション]-[ユーザー設定]-[オーディオデバイス]の「オーディオデバイスの種類」から「ASIO4ALL v2」を選択し「適用」
 1. 引き続き「詳細」を選択
 1. 「オーディオの詳細設定」の「設定」を選択
-1. 「ASIO4ALL v2.14」設定画面で「AKG C44-USB Microphone」を選択  
+1. 「ASIO4ALL v2.14」設定画面で、利用したいオーディオインターフェイス（AKG C44-USB Microphone）を選択  
 
-実行環境：ACID Pro 10、AKG Lyra、KORG nanoKEY2   
+実行環境：ACID Pro 10、AKG Lyra、KORG nanoKEY2、ASIO4ALL v.2.14  
 作成者：夢寐郎  
 作成日：2020年10月22日  
 
