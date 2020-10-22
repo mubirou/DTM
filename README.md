@@ -5,8 +5,8 @@
 
 
 ### <b>INDEX</b>
-* [ASIO4ALL](#ASIO4ALL): ASIOドライバを利用してレイテンシーを小さくする
-* [GM Drum Map](#GMDrumMap): パーカッション
+* [ASIO4ALL](#ASIO4ALL): レイテンシーを小さくする
+* [GM Drum Map](#GMDrumMap): ドラムセットの利用
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
@@ -42,7 +42,7 @@
 # GM Drum Map
 
 ### 説明
-GM（General MIDI）の「チャンネル10番」に、ドラムセットなどパーカッション用（リズム音色）が予約されている。
+GM（General MIDI）の「チャンネル10番」に、ドラムセットなどパーカッション用（リズム音色）が予約されている。ここではドラムセットに含まれる主な音色をピックアップ。
 
 ### 使い方
 1. 「MIDIトラックの挿入」
