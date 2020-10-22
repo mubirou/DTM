@@ -7,7 +7,7 @@
 ### <b>INDEX</b>
 * [GM Drum Map](#GMDrumMap): ドラムセットの利用
 * [ASIO4ALL](#ASIO4ALL): レイテンシーを小さくする
-* [XXXXX](#XXXXX): XXXXXXX
+* [クオンタイズをグリッドに揃える]](#AutoQuantize): 鼻歌をレコーディングする
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
@@ -67,3 +67,29 @@ GM（General MIDI）の「チャンネル10番」に、ドラムセットなど�
 実行環境：ACID Pro 10、ACID Xpress 7、AKG Lyra、KORG nanoKEY2、ASIO4ALL v.2.14  
 作成者：夢寐郎  
 作成日：2020年10月22日  
+
+
+<a name="AutoQuantize"></a>
+# クオンタイズをグリッドに揃える
+
+### 説明
+MIDIキーボードを使ってリアルタイムレコーディングしたものを、16分音符のグリッドにかっちり揃えます。
+
+### 操作方法
+1. XXXXX
+1. [編集]-[MIDIプロセスとフィルタ]-[クオンタイズ]を選択。
+1. 「クオンタイズスタート」と「クオンタイズリリース」を選択し「適用」を押す。
+
+
+
+<a name="AutoVelocity"></a>
+# ベロシティを揃える
+
+### 説明
+MIDIキーボードを使ってリアルタイムレコーディングしたもののベロシティをベタで揃えます。
+
+### 操作方法
+1. XXXXX
+1. [編集]-[MIDIプロセスとフィルタ]-[ベロシティ]を選択。
+1. 「スタート ベロシティ」と「リリース ベロシティ」を選択。
+1. 「値の設定」（1～127／初期値64）を指定し「適用」を押す。
