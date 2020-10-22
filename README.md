@@ -6,7 +6,7 @@
 
 ### <b>INDEX</b>
 * [ASIO4ALL](#ASIO4ALL): ASIOドライバを利用してレイテンシーを小さくする
-* [GMチャンネル10番](#GMChannel10): パーカッション
+* [GM Drum Map](#GMDrumMap): パーカッション
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
 * [XXXXX](#XXXXX): XXXXXXX
@@ -38,11 +38,11 @@
 作成日：2020年10月22日  
 
 
-<a name="GMChannel10"></a>
-# GMチャンネル10番
+<a name="GMDrumMap"></a>
+# GM Drum Map
 
 ### 説明
-GM（General MIDI）のチャンネル10番に、ドラムセットなどパーカッション用（リズム音色）が予約されている。
+GM（General MIDI）の「チャンネル10番」に、ドラムセットなどパーカッション用（リズム音色）が予約されている。
 
 ### 使い方
 1. 「MIDIトラックの挿入」
