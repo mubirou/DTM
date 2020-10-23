@@ -1,20 +1,13 @@
 # DTM
-音楽的あるいは技術的な裏付けは皆無の作曲･編曲
-
+音楽的あるいは技術的な裏付けは皆無の作曲･編曲。
 
 
 
 ### <b>INDEX</b>
 * [GM Drum Map](#GMDrumMap): ドラムセットの利用
 * [ASIO4ALL](#ASIO4ALL): レイテンシーを小さくする
-* [クオンタイズをグリッドに揃える](#AutoQuantize): XXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
+* [クオンタイズをグリッドに揃える](#AutoQuantize): クオンタイズをグリッドに揃える
+* [ベロシティを揃える](#AutoVelocity): ベロシティをベタで揃える
 * [XXXXX](#XXXXX): XXXXXXX
 
 ***
