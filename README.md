@@ -99,12 +99,12 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 1. ベロシティを揃えたいMIDIトラックを選択。  
     ベロシティが表示されていない場合、[表示]-[インラインMIDI編集の表示]-[ノートオンベロシティ]で表示。
 1. [編集]-[MIDIプロセスとフィルタ]-[ベロシティ]を選択。  
- （Xpressの場合、[Edit]-[MIDI Processes Filters]-[Velocity]）
+ （Xpressの場合は[Edit]-[MIDI Processes Filters]-[Velocity]）
 1. 次の項目を選択または設定して「適用」を押す。
-    * スタート ベロシティ
-    * リリース ベロシティ
+    * スタート ベロシティ（Change Start Velocity）
+    * リリース ベロシティ（Change Release Velocity）
     * 値の設定: 100（1～127／初期値64）
-    * 選択したトラックのすべての音符に適用
+    * 選択したトラックのすべての音符に適用（Apply to all notes selected tracks）
 
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
