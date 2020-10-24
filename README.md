@@ -83,7 +83,7 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
     * クオンタイズリリース
     * 選択したトラックのすべての音符に適用
 
-実行環境：ACID Pro 10、ACID Xpress 7、AKG Lyra、KORG nanoKEY2、ASIO4ALL v.2.14  
+実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
 作成日：2020年10月22日  
 
