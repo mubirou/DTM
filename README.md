@@ -118,8 +118,8 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |ビート|概要|.mid|
 |:--:|:--|:--:|
 |8|ハイハット版|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)
-|8|ライドシンバル版|[●](https://github.com/mubirou/DTM/tree/main/mid/8beat_RideCymbal.mid)|
-|8|フロアタム版|[●](https://github.com/mubirou/DTM/tree/main/mid/8beat_FloorTom.mid)|
+|8|ライドシンバル版|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|
+|8|フロアタム版|[●]((https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|
 
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  

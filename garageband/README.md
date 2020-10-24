@@ -7,7 +7,7 @@
 
 |No.|タイトル|内容|.band（zip）|.mp3|
 |:--:|:--|:--|:--:|:--:|
-|001|TheFroggySong|カエルの歌のアレンジ|[●](https://mubirou.github.io/DTM/GarageBand/band/001_TheFroggySong.band.zip)|－|
-|002|SomeSong|耳コピした何かの曲のアレンジ|－|[●](https://mubirou.github.io/DTM/GarageBand/mp3/002_SomeSong.mp3)|
+|001|TheFroggySong|カエルの歌のアレンジ|[●](https://mubirou.github.io/DTM/garageband/band/001_TheFroggySong.band.zip)|－|
+|002|SomeSong|耳コピした何かの曲のアレンジ|－|[●](https://mubirou.github.io/DTM/garageband/mp3/002_SomeSong.mp3)|
 
 © 2018 夢寐郎
