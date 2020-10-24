@@ -9,7 +9,7 @@
 * [クオンタイズ](#AutoQuantize): クオンタイズをグリッドに揃える
 * [ベロシティ](#AutoVelocity): ベロシティをベタで揃える
 * [XXXXX](#XXXXX): XXXXXXX
-* [GrageBand](): Apple GarageBandのサンプル
+* [GrageBand](https://github.com/mubirou/DTM/tree/main/garageband): Apple GarageBandのサンプル
 
 ***
 
