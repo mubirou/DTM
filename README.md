@@ -23,11 +23,11 @@
 GM（General MIDI）の「チャンネル10番」に、ドラムセットなどパーカッション用（リズム音色）が予約されている。ここではドラムセットに含まれる主な音色をピックアップします。
 
 ### 使い方
-1. 「MIDIトラックの挿入」
-1. 「インラインMIDI編集を有効にする」
-1. MIDI出力を「DLSソフトシンセ」に設定（重要）
-1. MIDIチャンネルを「10」に設定（重要）
-1. ドラムキットは「Standard」に設定
+1. "Insert MIDI Track"（MIDIトラックの挿入）
+1. "Enable Inline MIDI Editing"（インラインMIDI編集を有効にする）
+1. "MIDI Output"（MIDI出力）を"DLS Soft Synth"（DLSソフトシンセ）に設定
+1. "MIDI Channel"（MIDIチャンネル）を"10"に設定
+1. "Drum Kits"（ドラムキット）は"Standard"に設定
 
 |通称|音階|音色名|概要|nanoKEY2|
 |:--:|:--:|:--|:--|:--:|
