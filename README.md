@@ -115,11 +115,11 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 <a name="DrumPattern"></a>
 ## ドラムパターン
 
-|ビート|概要|.mid|
-|:--:|:--|:--:|
-|8|ハイハット版|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)
-|8|ライドシンバル版|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|
-|8|フロアタム版|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|
+|ビート|概要|.mid|.mp3|
+|:--:|:--|:--:|:--:|
+|8|ハイハット版|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
+|8|ライドシンバル版|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)|
+|8|フロアタム版|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)|
 
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
