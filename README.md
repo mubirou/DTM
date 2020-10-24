@@ -41,7 +41,7 @@ GM（General MIDI）の「チャンネル10番」に、ドラムセットなど�
 |クラッシュシンバル|C#2|Crash Cymbal 1|アクセント用（両サイドの小シンバル）|-1 OCT|
 |ライドシンバル|D#2|Ride Cymbal 1|基本リズムを刻む（大きめのシンバル）|-1 OCT|
 
-実行環境：ACID Pro 10、ACID Xpress 7、KORG nanoKEY2   
+実行環境：ACID Xpress 7、ACID Pro 10、KORG nanoKEY2   
 作成者：夢寐郎  
 作成日：2020年10月21日  
 
