@@ -61,7 +61,7 @@ GM（General MIDI）の「チャンネル10番」に、ドラムセットなど�
 実行環境：ACID Pro 10、ACID Xpress 7、AKG Lyra、KORG nanoKEY2、ASIO4ALL v.2.14  
 作成者：夢寐郎  
 作成日：2020年10月22日  
-更新日: 2020年10月24日
+更新日：2020年10月24日
 
 
 <a name="AutoQuantize"></a>
@@ -102,3 +102,4 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 実行環境：ACID Pro 10、AKG Lyra、KORG nanoKEY2、ASIO4ALL v.2.14  
 作成者：夢寐郎  
 作成日：2020年10月22日  
+更新日：2020年10月24日
