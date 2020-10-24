@@ -56,13 +56,14 @@ GM（General MIDI）の「チャンネル10番」に、ドラムセットなど�
 
 ### 設定方法
 1. http://www.asio4all.org/ から「ASIO4ALL 2.14」をインストール
-1. ACIDの[オプション]-[ユーザー設定]-[オーディオデバイス]の「オーディオデバイスの種類」から「ASIO4ALL v2」を選択し「適用」
-1. 引き続き「詳細」を選択
-1. 「オーディオの詳細設定」の「設定」を選択
+1. ACIDの[オプション]-[ユーザー設定]-[オーディオデバイス]の「オーディオデバイスの種類」から「ASIO4ALL v2」を選択し「適用」  
+（Xpressの場合[Options]-[Preferences]-[Audio Device]-[Audio device]-[ASIO4ALL v2]）
+1. 引き続き「詳細」（Advanced）を選択
+1. 「オーディオの詳細設定」の「設定」（Configure）を選択
 1. 「ASIO4ALL v2.14」設定画面で、利用したいオーディオインターフェイス（AKG C44-USB Microphone）を選択
 1. Windowsの[設定]-[システム]-[サウンド]-[出力デバイスを選択してください]で上記のオーディオインターフェイスを選択
 
-実行環境：ACID Pro 10、ACID Xpress 7、AKG Lyra、KORG nanoKEY2、ASIO4ALL v.2.14  
+実行環境：ACID Pro 10、ACID Xpress 7、AKG Lyra、ASIO4ALL v.2.14  
 作成者：夢寐郎  
 作成日：2020年10月22日  
 更新日：2020年10月24日
