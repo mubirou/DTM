@@ -118,7 +118,7 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 ## ドラムパターン
 
 |種類|概要|用途|.mid|.mp3|
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|:--:|:--:|
 |8ビート|8分音符が主体（ハイハット版）|ロック･ポップス|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
 |8ビート|8分音符が主体（ライドシンバル版）|ロック･ポップス|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)|
 |8ビート|8分音符が主体（フロアタム版）|ロック･ポップス|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)|
