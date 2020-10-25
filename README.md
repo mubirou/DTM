@@ -119,10 +119,10 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 
 |種類|概要|.mid|.mp3|
 |:--:|:--|:--:|:--:|
-|8beat|8分音符が主体（ハイハット版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
+|8beat|8分音符主体（ハイハット版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
 |8beat|同上（ライドシンバル版）|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)|
 |8beat|同上（フロアタム版）|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)|
-|16beat|―|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)|
+|16beat|16分音符主体 FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)|
 
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
