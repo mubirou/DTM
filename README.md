@@ -137,8 +137,8 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 <a name="ChordProgression"></a>
 ## コード進行
 
-|種類|コード進行|.mid|.mp3|
-|:--:|:--|:--:|:--:|
+|進行名|コード進行|.mid|.mp3|
+|:--:|:--:|:--:|:--:|
 |王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
 |椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)|
 
