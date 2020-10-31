@@ -138,6 +138,9 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |種類|コード進行|.mid|.mp3|
 |:--:|:--|:--:|:--:|
 |王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
+|椎名林檎進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
+
+* 参考：https://www.youtube.com/watch?v=tE-b4nvusB8
 
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
