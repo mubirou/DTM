@@ -135,7 +135,7 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 <a name="ChordProgression"></a>
 ## コード進行
 
-|種類|コード|概要|.mid|.mp3|
+|種類|コード進行|概要|.mid|.mp3|
 |:--:|:--|:--:|:--:|:--:|
 |王道進行|F-G-Em-Am|マイナーともメジャーともいえない独特は雰囲気|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
 
