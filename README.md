@@ -102,8 +102,8 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 1. [編集]-[MIDIプロセスとフィルタ]-[ベロシティ]を選択。  
  （Xpressの場合は[Edit]-[MIDI Processes Filters]-[Velocity]）
 1. 次の項目を選択または設定して「適用」を押す。
-    * スタート ベロシティ（Change Start Velocity）
-    * リリース ベロシティ（Change Release Velocity）
+    * スタート ベロシティ（Change Start Velocity）：✔
+    * リリース ベロシティ（Change Release Velocity）：✔
     * 値の設定: 100（1～127／初期値64）
     * 選択したトラックのすべての音符に適用（Apply to all notes selected tracks）
 
@@ -129,3 +129,17 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 作成者：夢寐郎  
 作成日：2020年10月24日  
 更新日：2020年10月25日  
+
+
+
+<a name="ChordProgression
+"></a>
+## コード進行
+
+|種類|概要|.mid|.mp3|
+|:--:|:--|:--:|:--:|
+|王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
+
+実行環境：ACID Pro 10、ACID Xpress 7  
+作成者：夢寐郎  
+作成日：2020年10月31日  
