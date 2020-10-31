@@ -125,6 +125,8 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |16beat|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)|
 |Swing|Shuffle,|[●]()|[●]()|
 
+* 参考：https://www.youtube.com/watch?v=_YgCsGy_rHA
+
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
 作成日：2020年10月24日  
