@@ -1,7 +1,4 @@
 # DTM
-音楽的あるいは技術的な裏付けはほぼ皆無の作曲･編曲メモ。  
-
-
 
 ### <b>INDEX</b>
 * [ドラムセット](#DrumSet): GM音源のドラムセットを利用する
@@ -13,7 +10,6 @@
 * [GrageBand](https://github.com/mubirou/DTM/tree/main/garageband): Apple GarageBandのサンプル（旧）
 
 ***
-
 
 
 <a name="DrumSet"></a>
@@ -46,7 +42,6 @@ GM（General MIDI）の「チャンネル10番」にはドラムセットなど�
 作成日：2020年10月21日  
 
 
-
 <a name="Latency"></a>
 ## レイテンシー
 
@@ -69,7 +64,6 @@ GM（General MIDI）の「チャンネル10番」にはドラムセットなど�
 更新日：2020年10月24日
 
 
-
 <a name="AutoQuantize"></a>
 ## クオンタイズ
 
@@ -87,7 +81,6 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
 作成日：2020年10月22日  
-
 
 
 <a name="AutoVelocity"></a>
@@ -113,7 +106,6 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 更新日：2020年10月24日
 
 
-
 <a name="DrumPattern"></a>
 ## ドラムパターン
 
@@ -131,7 +123,6 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 作成者：夢寐郎  
 作成日：2020年10月24日  
 更新日：2020年10月25日  
-
 
 
 <a name="ChordProgression"></a>
