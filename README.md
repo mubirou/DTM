@@ -9,7 +9,7 @@
 * [クオンタイズ](#AutoQuantize): クオンタイズをグリッドに揃える
 * [ベロシティ](#AutoVelocity): ベロシティをベタで揃える
 * [ドラムパターン](#DrumPattern): XXXXXXX
-* [XXXXX](#XXXXX): XXXXXXX
+* [コード進行](#ChordProgression): XXXXXXX
 * [GrageBand](https://github.com/mubirou/DTM/tree/main/garageband): Apple GarageBandのサンプル（旧）
 
 ***
@@ -132,8 +132,7 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 
 
 
-<a name="ChordProgression
-"></a>
+<a name="ChordProgression"></a>
 ## コード進行
 
 |種類|概要|.mid|.mp3|
