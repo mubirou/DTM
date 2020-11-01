@@ -109,14 +109,14 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 <a name="DrumPattern"></a>
 ## ドラムパターン
 
-|種類|概要|.mid|.mp3|備考|
-|:--|:--|:--:|:--:|:--|
-|8ビート|8分音符主体（Hi-hat版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)||
-|8ビート|同上（Ride Cymbal版）|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)||
-|8ビート|同上（Floor Tom版）|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)||
-|16ビート|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)||
-|シャッフルビート|Swing, 8ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/shuffle_8beat.mid)|[●](https://mubirou.github.io/DTM/mp3/shuffle_8beat.mp3)||
-|シャッフルビート|Swing, 16ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/shuffle_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/shuffle_16beat.mp3)|※1|
+|No.|種類|概要|.mid|.mp3|備考|
+|:--:||:--|:--|:--:|:--:|:--|
+|1|8ビート|8分音符主体（Hi-hat版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/drum01_8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum01_8beat_Hi-hat.mp3)||
+|2|8ビート|同上（Ride Cymbal版）|[●](https://mubirou.github.io/DTM/mid/drum02_8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/drum02_8beat_RideCymbal.mp3)||
+|3|8ビート|同上（Floor Tom版）|[●](https://mubirou.github.io/DTM/mid/drum03_8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/drum03_8beat_FloorTom.mp3)||
+|4|16ビート|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/drum04_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum04_16beat.mp3)||
+|5|シャッフルビート|Swing, 8ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/drum05_shuffle_8beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum05_shuffle_8beat.mp3)||
+|6|シャッフルビート|Swing, 16ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/drum06_shuffle_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum06_shuffle_16beat.mp3)|※1|
 
 ※1 16ビートのシャッフル化は [編集]-[MIDIプロセスとフィルタ]-[クオンタイズ] で [16分音符][連符(3/2)] を適用することで可能。
 
@@ -131,12 +131,13 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 <a name="ChordProgression"></a>
 ## コード進行
 
-|進行名|コード進行|.mid|.mp3|備考|
-|:--|:--|:--:|:--:|:--|
-|王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)||
-|椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)||
-|4156進行|F-C-G-Am|[●](https://mubirou.github.io/DTM/mid/chord03.mid)|[●](https://mubirou.github.io/DTM/mp3/chord03.mp3)|次世代の王道進行|
-|カノン進行|C-G-Am-Em-F-C-F-G|[●](https://mubirou.github.io/DTM/mid/chord04.mid)|[●](https://mubirou.github.io/DTM/mp3/chord04.mp3)||
+|No.|進行名|コード進行|.mid|.mp3|備考|
+|:--:|:--|:--|:--:|:--:|:--|
+|1|王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01_oudou.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01_oudou.mp3)||
+|2|椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02_shiina.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02_shiina.mp3)||
+|3|4156進行|F-C-G-Am|[●](https://mubirou.github.io/DTM/mid/chord03_4156.mid)|[●](https://mubirou.github.io/DTM/mp3/chord03_4156.mp3)|次世代の王道進行|
+|4|カノン進行|C-G-Am-Em-F-C-F-G|[●](https://mubirou.github.io/DTM/mid/chord04_canon.mid)|[●](https://mubirou.github.io/DTM/mp3/chord04_canon.mp3)||
+|5|小室進行|Am-F-G-C|[●](https://mubirou.github.io/DTM/mid/chord05_komuro.mid)|[●](https://mubirou.github.io/DTM/mp3/chord05_komuro.mp3)||
 
 * 参考：https://www.youtube.com/watch?v=tE-b4nvusB8
 
