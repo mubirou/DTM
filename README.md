@@ -115,8 +115,8 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |8ビート|同上（Ride Cymbal版）|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)||
 |8ビート|同上（Floor Tom版）|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)||
 |16ビート|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)||
-|シャッフルビート|Swing, 8ビートのシャッフル化|[●](https://mubirou.github.io/DTM/mid/shuffle_8beat.mid)|[●](https://mubirou.github.io/DTM/mp3/shuffle_8beat.mp3)||
-|シャッフルビート|Swing, 16ビートのシャッフル化|[●](https://mubirou.github.io/DTM/mid/shuffle_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/shuffle_16beat.mp3)|※1|
+|シャッフルビート|Swing, 8ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/shuffle_8beat.mid)|[●](https://mubirou.github.io/DTM/mp3/shuffle_8beat.mp3)||
+|シャッフルビート|Swing, 16ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/shuffle_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/shuffle_16beat.mp3)|※1|
 
 ※1 16ビートのシャッフル化は[編集]-[MIDIプロセスとフィルタ]-[クオンタイズ]で[16分音符][連符(3/2)]を適用することで可能。
 
