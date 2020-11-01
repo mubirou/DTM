@@ -110,7 +110,7 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 ## ドラムパターン
 
 |種類|概要|.mid|.mp3|
-|:--:|:--|:--:|:--:|
+|:--|:--|:--:|:--:|
 |8beat|8分音符主体（Hi-hat版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
 |8beat|同上（Ride Cymbal版）|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)|
 |8beat|同上（Floor Tom版）|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)|
@@ -129,9 +129,10 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 ## コード進行
 
 |進行名|コード進行|.mid|.mp3|
-|:--:|:--:|:--:|:--:|
+|:--|:--|:--:|:--:|
 |王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
 |椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)|
+|4156進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)|
 
 * 参考：https://www.youtube.com/watch?v=tE-b4nvusB8
 
