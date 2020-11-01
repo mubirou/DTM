@@ -131,16 +131,16 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 <a name="ChordProgression"></a>
 ## コード進行
 
-|進行名|コード進行|.mid|.mp3|
-|:--|:--|:--:|:--:|
-|王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
-|椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)|
-|4156進行|F-C-G-Am|[●](https://mubirou.github.io/DTM/mid/chord03.mid)|[●](https://mubirou.github.io/DTM/mp3/chord03.mp3)|
-|カノン進行|C-G-Am-Em-F-C-F-G|[●](https://mubirou.github.io/DTM/mid/chord04.mid)|[●](https://mubirou.github.io/DTM/mp3/chord04.mp3)|
+|進行名|コード進行|.mid|.mp3|備考|
+|:--|:--|:--:|:--:|:--|
+|王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)||
+|椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)||
+|4156進行|F-C-G-Am|[●](https://mubirou.github.io/DTM/mid/chord03.mid)|[●](https://mubirou.github.io/DTM/mp3/chord03.mp3)|次世代の王道進行|
+|カノン進行|C-G-Am-Em-F-C-F-G|[●](https://mubirou.github.io/DTM/mid/chord04.mid)|[●](https://mubirou.github.io/DTM/mp3/chord04.mp3)||
 
 * 参考：https://www.youtube.com/watch?v=tE-b4nvusB8
 
-実行環境：ACID Pro 10、ACID Xpress 7  
+実行環境：ACID Pro 10  
 作成者：夢寐郎  
 作成日：2020年10月31日  
-更新日：2020年11月01日
+更新日：2020年11月02日
