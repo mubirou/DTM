@@ -133,6 +133,7 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |王道進行|F-G-Em-Am|[●](https://mubirou.github.io/DTM/mid/chord01.mid)|[●](https://mubirou.github.io/DTM/mp3/chord01.mp3)|
 |椎名林檎進行|FM7-E7-Am7-CM7|[●](https://mubirou.github.io/DTM/mid/chord02.mid)|[●](https://mubirou.github.io/DTM/mp3/chord02.mp3)|
 |4156進行|F-C-G-Am|[●](https://mubirou.github.io/DTM/mid/chord03.mid)|[●](https://mubirou.github.io/DTM/mp3/chord03.mp3)|
+|カノン進行|C-G-Am-Em-F-C-F-G|[●](https://mubirou.github.io/DTM/mid/chord04.mid)|[●](https://mubirou.github.io/DTM/mp3/chord04.mp3)|
 
 * 参考：https://www.youtube.com/watch?v=tE-b4nvusB8
 
