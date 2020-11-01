@@ -111,18 +111,20 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 
 |種類|概要|.mid|.mp3|
 |:--|:--|:--:|:--:|
-|8beat|8分音符主体（Hi-hat版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
-|8beat|同上（Ride Cymbal版）|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)|
-|8beat|同上（Floor Tom版）|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)|
-|16beat|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)|
-|Swing|Shuffle,|[●]()|[●]()|
+|8ビート|8分音符主体（Hi-hat版）ROCK･POPS|[●](https://mubirou.github.io/DTM/mid/8beat_Hi-hat.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_Hi-hat.mp3)|
+|8ビート|同上（Ride Cymbal版）|[●](https://mubirou.github.io/DTM/mid/8beat_RideCymbal.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_RideCymbal.mp3)|
+|8ビート|同上（Floor Tom版）|[●](https://mubirou.github.io/DTM/mid/8beat_FloorTom.mid)|[●](https://mubirou.github.io/DTM/mp3/8beat_FloorTom.mp3)|
+|16ビート|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/16beat.mp3)|
+|シャッフルビート|Swing, 8ビートのシャッフル化|[●](https://mubirou.github.io/DTM/mid/shuffle_8beat.mid)|[●]https://mubirou.github.io/DTM/mp3/8beat.mp3)|
+|シャッフルビート|Swing, 16ビートのシャッフル化|[●]()|[●]()|
 
 * 参考：https://www.youtube.com/watch?v=_YgCsGy_rHA
+* 16ビートのシャッフル化は
 
 実行環境：ACID Pro 10、ACID Xpress 7  
 作成者：夢寐郎  
 作成日：2020年10月24日  
-更新日：2020年10月25日  
+更新日：2020年11月02日  
 
 
 <a name="ChordProgression"></a>
