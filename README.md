@@ -5,8 +5,8 @@
 * [レイテンシー](#Latency): ASIO4ALLを使ってレイテンシーを小さくする
 * [クオンタイズ](#AutoQuantize): クオンタイズをグリッドに揃える
 * [ベロシティ](#AutoVelocity): ベロシティをベタで揃える
-* [ドラムパターン](#DrumPattern): 主なドラムパターン
-* [コード進行](#ChordProgression): 主なコード進行
+* [ドラムパターン](#DrumPattern): 作曲に使える主なドラムパターン
+* [コード進行](#ChordProgression): 作曲に使える主なコード進行
 * [GrageBand](https://github.com/mubirou/DTM/tree/main/garageband): Apple GarageBandのサンプル（旧）
 
 ***
