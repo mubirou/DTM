@@ -140,10 +140,11 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |3|4156進行|F-C-G-Am|[●](https://mubirou.github.io/DTM/mid/chord03_4156.mid)|[●](https://mubirou.github.io/DTM/mp3/chord03_4156.mp3)|次世代の王道進行|
 |4|カノン進行|C-G-Am-Em-F-C-F-G|[●](https://mubirou.github.io/DTM/mid/chord04_canon.mid)|[●](https://mubirou.github.io/DTM/mp3/chord04_canon.mp3)||
 |5|小室進行|Am-F-G-C|[●](https://mubirou.github.io/DTM/mid/chord05_komuro.mid)|[●](https://mubirou.github.io/DTM/mp3/chord05_komuro.mp3)||
+|6|Let It Be進行|C-G-Am-F|[●](https://mubirou.github.io/DTM/mid/chord06_letItBe.mid)|[●](https://mubirou.github.io/DTM/mp3/chord06_letItBe.mp3)||
 
 * 参考：https://www.youtube.com/watch?v=tE-b4nvusB8
 
 実行環境：ACID Pro 10  
 作成者：夢寐郎  
 作成日：2020年10月31日  
-更新日：2020年11月02日
+更新日：2020年11月09日
