@@ -117,13 +117,15 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 |4|16ビート|16分音符主体, FUNK･ROCK･J-POP|[●](https://mubirou.github.io/DTM/mid/drum04_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum04_16beat.mp3)||
 |5|シャッフルビート|Swing, 8ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/drum05_shuffle_8beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum05_shuffle_8beat.mp3)||
 |6|シャッフルビート|Swing, 16ビートのシャッフル版|[●](https://mubirou.github.io/DTM/mid/drum06_shuffle_16beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum06_shuffle_16beat.mp3)|※1|
+|7|シェイクビート|8ビート+16分裏にスネア|[●](https://mubirou.github.io/DTM/mid/drum07_shake_8beat.mid)|[●](https://mubirou.github.io/DTM/mp3/drum07_shake_8beat.mp3)|※1|
+
 
 ※1 16ビートのシャッフル化は [編集]-[MIDIプロセスとフィルタ]-[クオンタイズ] で [16分音符][連符(3/2)] を適用することで可能。
 
 * 参考：https://www.youtube.com/watch?v=_YgCsGy_rHA
 
 実行環境：ACID Pro 10   
-作成者：夢寐郎  
+作成者：夢寐郎  k
 作成日：2020年10月24日  
 更新日：2020年11月02日  
 
