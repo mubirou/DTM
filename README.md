@@ -125,9 +125,9 @@ MIDIキーボードを使ってリアルタイムレコーディングしたも�
 * 参考：https://www.youtube.com/watch?v=_YgCsGy_rHA
 
 実行環境：ACID Pro 10   
-作成者：夢寐郎  k
+作成者：夢寐郎  
 作成日：2020年10月24日  
-更新日：2020年11月02日  
+更新日：2020年11月09日  
 
 
 <a name="ChordProgression"></a>
